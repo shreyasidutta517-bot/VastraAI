@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #4A6CF7;
+  --color-brand-blue-hover: #3B5BD8;
+  --color-brand-softblue: #EEF3FF;
+  --color-brand-pink: #E98BAF;
+  --color-brand-softpink: #FFF0F5;
+  --color-brand-dark: #20243A;
+  --color-brand-muted: #5E6482;
+}
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #FAFBFF;
+    color: #20243A;
+  }
+  
+  .font-display {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+

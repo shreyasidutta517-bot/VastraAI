@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#FAFBFF" stroke="#D6E2FF" stroke-width="1"/>
+  <g transform="translate(2.7, 2.0) scale(0.72)">
+    <defs>
+      <linearGradient id="fav_b1" x1="8" y1="7" x2="20" y2="33" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#4A6CF7" />
+        <stop offset="100%" stop-color="#2D4BC5" />
+      </linearGradient>
+      <linearGradient id="fav_b2" x1="18" y1="30" x2="30" y2="9" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#3E60EC" />
+        <stop offset="100%" stop-color="#6C8DFD" />
+      </linearGradient>
+      <linearGradient id="fav_p" x1="22" y1="6" x2="30" y2="16" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#F8A8C7" />
+        <stop offset="100%" stop-color="#E98BAF" />
+      </linearGradient>
+    </defs>
+    <path
+      d="M 8.5 7.2 L 12.8 7.2 C 13.6 7.2 14.3 7.8 14.5 8.5 C 16 15.8 19 23 22.8 28.5 L 20.8 31.8 C 20.4 32.4 19.6 32.4 19.2 31.8 C 14 24.5 9.5 15.5 8.2 7.9 C 8.1 7.5 8.3 7.2 8.5 7.2 Z"
+      fill="url(#fav_b1)"
+    />
+    <path
+      d="M 18.2 24.5 L 19.8 27.5 L 28.5 13 C 29 12.1 28.8 11 28 10.4 L 26.2 9.1 C 25.5 8.6 24.5 8.8 24 9.6 L 18.2 19.5 L 18.2 24.5 Z"
+      fill="url(#fav_b2)"
+    />
+    <path
+      d="M 27.5 8.5 C 26.2 7.4 24.2 7.7 23.2 9 L 20.5 12.5 C 21.3 13.1 22.3 13.3 23.2 12.8 L 27.2 9.5 C 27.6 9.1 27.7 8.7 27.5 8.5 Z"
+      fill="url(#fav_p)"
+    />
+  </g>
+</svg>
