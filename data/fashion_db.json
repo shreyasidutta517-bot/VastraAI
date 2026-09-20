@@ -1,0 +1,293 @@
+{
+  "users": {
+    "user_student_1": {
+      "id": "user_student_1",
+      "name": "Aanya Sharma",
+      "genderProfile": "Female",
+      "preferredStyles": [
+        "Traditional",
+        "Casual",
+        "College",
+        "Minimal"
+      ],
+      "favoriteColors": [
+        "Crimson Red",
+        "Royal Blue",
+        "Gold",
+        "Beige",
+        "Black",
+        "Emerald Green"
+      ],
+      "preferredCategories": [
+        "Sarees",
+        "Blouses",
+        "Kurtas",
+        "Palazzo Pants",
+        "Dupattas",
+        "T-shirts",
+        "Jeans",
+        "Indian Jewellery",
+        "Ethnic Footwear"
+      ],
+      "preferredClothing": [
+        "Sarees",
+        "Blouses",
+        "Kurtas",
+        "Palazzo Pants",
+        "Dupattas",
+        "T-shirts",
+        "Jeans",
+        "Indian Jewellery",
+        "Ethnic Footwear"
+      ],
+      "budget": "₹1,500 - ₹3,500",
+      "preferredOccasions": [
+        "Durga Puja",
+        "Wedding",
+        "Festival",
+        "College Fest",
+        "Casual Traditional",
+        "Party"
+      ],
+      "updatedAt": "2026-09-20T15:14:54.352Z"
+    }
+  },
+  "wardrobe": [
+    {
+      "id": "w_saree_1",
+      "userId": "user_student_1",
+      "itemName": "Crimson Red Banarasi Katan Silk Saree",
+      "category": "Sarees",
+      "color": "Crimson Red",
+      "style": "Traditional",
+      "fabric": "Banarasi Katan Silk",
+      "sareeType": "Banarasi Handloom",
+      "occasion": "Wedding / Durga Puja",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.354Z"
+    },
+    {
+      "id": "w_blouse_1",
+      "userId": "user_student_1",
+      "itemName": "Antique Gold Zari Embroidered Blouse",
+      "category": "Blouses",
+      "color": "Antique Gold",
+      "style": "Embroidered",
+      "sleeveStyle": "Elbow-length",
+      "neckStyle": "Sweetheart Neck",
+      "occasion": "Wedding / Festive",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_saree_2",
+      "userId": "user_student_1",
+      "itemName": "Pastel Pink Chanderi Silk Saree",
+      "category": "Sarees",
+      "color": "Pastel Pink",
+      "style": "Traditional",
+      "fabric": "Chanderi Silk Cotton",
+      "sareeType": "Chanderi Handloom",
+      "occasion": "Puja / College Fest",
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_blouse_2",
+      "userId": "user_student_1",
+      "itemName": "Emerald Green Brocade Blouse",
+      "category": "Blouses",
+      "color": "Emerald Green",
+      "style": "Brocade",
+      "sleeveStyle": "Cap Sleeves",
+      "neckStyle": "Boat Neck",
+      "occasion": "Festival / Party",
+      "image": "https://images.unsplash.com/photo-1605705656874-42b7e2895696?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_kurta_1",
+      "userId": "user_student_1",
+      "itemName": "Mustard Yellow Embroidered Chanderi Kurta",
+      "category": "Kurtas",
+      "color": "Mustard Yellow",
+      "style": "Traditional",
+      "occasion": "Festival / Puja",
+      "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_palazzo_1",
+      "userId": "user_student_1",
+      "itemName": "Ivory Flared Silk Palazzo Pants",
+      "category": "Palazzo Pants",
+      "color": "Ivory White",
+      "style": "Traditional",
+      "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_dupatta_1",
+      "userId": "user_student_1",
+      "itemName": "Maroon Phulkari Embroidered Silk Dupatta",
+      "category": "Dupattas",
+      "color": "Maroon",
+      "style": "Traditional",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_jewel_1",
+      "userId": "user_student_1",
+      "itemName": "Handcrafted Kundan Pearl Jhumkas",
+      "category": "Indian Jewellery",
+      "color": "Gold & Pearl",
+      "style": "Traditional",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_shoe_eth_1",
+      "userId": "user_student_1",
+      "itemName": "Embellished Zari Mojari Juttis",
+      "category": "Ethnic Footwear",
+      "color": "Champagne Gold",
+      "style": "Traditional",
+      "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_1",
+      "userId": "user_student_1",
+      "itemName": "Relaxed Beige Linen Shirt",
+      "category": "Shirts",
+      "color": "Beige",
+      "style": "Minimal",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_2",
+      "userId": "user_student_1",
+      "itemName": "Classic Black Oversized T-Shirt",
+      "category": "T-shirts",
+      "color": "Black",
+      "style": "Streetwear",
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_3",
+      "userId": "user_student_1",
+      "itemName": "Light Wash Straight-Fit Jeans",
+      "category": "Jeans",
+      "color": "Light Blue",
+      "style": "Casual",
+      "image": "https://images.unsplash.com/photo-1542272604-780c96856592?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_4",
+      "userId": "user_student_1",
+      "itemName": "Olive Green Pleated Chino Trousers",
+      "category": "Trousers",
+      "color": "Olive Green",
+      "style": "Casual",
+      "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_5",
+      "userId": "user_student_1",
+      "itemName": "Minimalist White Leather Sneakers",
+      "category": "Shoes",
+      "color": "White",
+      "style": "Minimal",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    },
+    {
+      "id": "w_7",
+      "userId": "user_student_1",
+      "itemName": "Canvas Messenger Tote Bag",
+      "category": "Accessories",
+      "color": "Off-White",
+      "style": "College",
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=500&auto=format&fit=crop&q=60",
+      "createdAt": "2026-09-20T15:14:54.355Z"
+    }
+  ],
+  "savedOutfits": [
+    {
+      "id": "saved_trad_1",
+      "userId": "user_student_1",
+      "savedAt": "2026-09-20T03:14:54.355Z",
+      "notes": "Saved for Durga Puja Ashtami celebration & Bengali wedding",
+      "outfit": {
+        "id": "rec_init_trad",
+        "title": "Royal Banarasi & Gold Embroidered Saree Ensemble",
+        "top": "Antique Gold Zari Embroidered Blouse (Sweetheart Neck, Elbow Sleeves)",
+        "bottom": "Crimson Red Banarasi Katan Silk Saree with golden zari drape",
+        "footwear": "Embellished Zari Mojari Juttis",
+        "accessories": "Handcrafted Kundan Pearl Jhumkas & Bangles",
+        "suggestedColors": [
+          "Crimson Red",
+          "Antique Gold",
+          "Emerald accents"
+        ],
+        "occasion": "Durga Puja / Wedding",
+        "approximateBudget": "₹0 (Wardrobe Owned)",
+        "explanation": "A timeless traditional pairing uniting the rich crimson Banarasi silk drape with an antique gold embroidered blouse, elevated by handcrafted kundan jhumkas for festive grandeur.",
+        "source": "wardrobe",
+        "wardrobeItemNames": [
+          "Crimson Red Banarasi Katan Silk Saree",
+          "Antique Gold Zari Embroidered Blouse",
+          "Handcrafted Kundan Pearl Jhumkas",
+          "Embellished Zari Mojari Juttis"
+        ],
+        "createdAt": "2026-09-20T03:14:54.355Z"
+      }
+    },
+    {
+      "id": "saved_1",
+      "userId": "user_student_1",
+      "savedAt": "2026-09-19T15:14:54.355Z",
+      "notes": "Perfect for college presentation day",
+      "outfit": {
+        "id": "rec_init_1",
+        "title": "Smart Campus Casual Ensemble",
+        "top": "Relaxed Beige Linen Shirt with rolled sleeves",
+        "bottom": "Olive Green Pleated Chino Trousers",
+        "footwear": "Minimalist White Leather Sneakers",
+        "accessories": "Canvas Messenger Tote Bag & Matte Metal Watch",
+        "suggestedColors": [
+          "Beige",
+          "Olive Green",
+          "White",
+          "Earth tones"
+        ],
+        "occasion": "College & Seminars",
+        "approximateBudget": "₹2,200 (Wardrobe Owned)",
+        "explanation": "The earth-toned balance of warm beige and muted olive creates an effortless academic aesthetic, while crisp white sneakers keep it active and modern.",
+        "source": "wardrobe",
+        "wardrobeItemNames": [
+          "Relaxed Beige Linen Shirt",
+          "Olive Green Pleated Chino Trousers",
+          "Minimalist White Leather Sneakers",
+          "Canvas Messenger Tote Bag"
+        ],
+        "createdAt": "2026-09-19T15:14:54.355Z"
+      }
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb_1",
+      "userId": "user_student_1",
+      "outfitId": "rec_init_1",
+      "outfitTitle": "Smart Campus Casual Ensemble",
+      "feedback": "like",
+      "createdAt": "2026-09-19T15:14:54.360Z"
+    }
+  ]
+}
